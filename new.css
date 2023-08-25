@@ -1,0 +1,30 @@
+body{
+    margin: 20px;
+}
+
+.my-foto{
+    width: 100px;
+}
+
+
+.card{    
+    width: 600px;
+    margin: 0px auto;
+    
+    border-left: 4px solid rgb(33, 32, 31);
+    border-bottom: 4px solid rgb(33, 32, 31);
+    border-radius: 5px;
+    background-color: rgba(61, 87, 105, 0.379)   ;
+    
+    padding: 10px;
+    
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.textme{
+    font-family: Verdana  ;
+    text-align: center;
+}
+
